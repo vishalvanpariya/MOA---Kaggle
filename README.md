@@ -1,5 +1,5 @@
 # MOA---Kaggle
-Mechanisms of Action (MoA) Prediction
+Mechanisms of Action (MoA) Prediction standing at 380(Top 9%) position out of 4300
 
 ## Source:
 [Kaggle Competition](https://www.kaggle.com/c/lish-moa)
@@ -16,3 +16,4 @@ Mechanisms of Action (MoA) Prediction
 * Transfer Learning
 * Multi labeled Stratifiedkfold Validation
 * Bayesian based Optimization for hyperparameter tunning
+* Tabnet
